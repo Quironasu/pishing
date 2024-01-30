@@ -53,6 +53,21 @@ En conclusión, el phishing ha evolucionado en complejidad y alcance, presentand
 
 
 
+Según la universidad politecnica  salesiana sede guayaquil en su tesis titulada "EL PHISHING COMO RIESGO INFORMÁTICO, TÉCNICAS Y PREVENCIÓN EN LOS CANALES ELECTRÓNICOS: UN MAPEO SISTEMÁTICO" el 15 de septiembre del año 2021  en la pagina 7 capitulo 2.1 el phishing es una variacion de ingenieria social, en el cual su objetivo es aprovechar debilidades que se encuentran en procesos de sistema y que son motivados por los usuarios del Sistema. El término phishing hace referencia a la palabra fishing: el comienzo del cambio de letras "ph" por la "f" se debe a que uno de los primero tipos de hacking estaba enfocado en las redes de telefonia, esto se le conoce como "phone phreaking" por lo tanto "ph" termino reemplazando a la letra "f"
+
+Opinión personal
+
+Mi opinión personal sobre esta tesis es que proporciona una visión clara y concisa del phishing como una variante de la ingeniería social, destacando su enfoque en aprovechar debilidades en los procesos del sistema inducidas por los usuarios. La referencia al "phone phreaking" ofrece una conexión interesante entre la historia de las amenazas cibernéticas y la evolución del término "phishing". La explicación sobre el origen del término, con el cambio de letras "ph" por "f", añade un contexto histórico intrigante y resalta cómo las prácticas de hacking han evolucionado con el tiempo.
+
+
+
+
+
+
+
+
+
+
 
 Fecha en la cual se publicó: 2018
 
