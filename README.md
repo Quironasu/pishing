@@ -14,6 +14,7 @@ El informe es esencial porque aborda la amenaza constante y creciente del phishi
 
 Que es?
 El phishing es la forma más común de ingeniería social, la práctica de engañar, presionar o manipular a las personas para que envíen información o activos a personas indebidas. Es decir, hacerse pasar por una persona  o empresa para manipular a las personas para que envíen información.
+
 Origen
 
 El término "phishing" tiene sus raíces en la palabra en inglés "fishing" (pesca), y la elección de la letra "ph" en lugar de "f" se debe a una modificación ortográfica que se utilizó para denotar la manipulación de la palabra original. El phishing se originó como una táctica de engaño en línea a finales de la década de 1990.
@@ -53,7 +54,7 @@ En conclusión, el phishing ha evolucionado en complejidad y alcance, presentand
 
 
 
-Fecha en la cual se publicó: 2023
+Fecha en la cual se publicó: 2018
 
 Segun IBM Security en su tesis "EL PHISHING COMO AMENAZA CIBERNÉTICA", el pishing se identifica como una amenaza cibernética significativa. En el capítulo 1, se resalta la naturaleza manipuladora de estos ataques, diseñados para obtener información confidencial mediante tácticas de ingeniería social. El capítulo 2 explora los resultados exitosos del phishing, que incluyen la usurpación de identidad, fraude con tarjetas de crédito, ataques de ransomware y filtraciones de datos, colocándolo como la cuarta causa más común y la segunda más costosa de las filtraciones de datos, con un costo promedio de 4,65 millones de USD para las empresas. En el capítulo 3, se revela la estrategia de los atacantes, que involucra la ingeniería social y tácticas basadas en el error humano, creando un desafío adicional al hacerse pasar por entidades confiables y generar urgencia falsa. La sección de estrategias de prevención, en el capítulo 4, destaca la importancia de la concienciación y educación de los usuarios para contrarrestar eficazmente los ataques de phishing, subrayando la necesidad de abordar este problema como una prioridad en las estrategias de seguridad cibernética tanto a nivel individual como empresarial.
 
@@ -71,7 +72,7 @@ La investigación de IBM sobre phishing destaca la gravedad de esta amenaza cibe
 
 
 
-Fecha en la cual se publicó: 2022
+Fecha en la cual se publicó: 2017
 
 Segun Microsoft Security Intelligence Report el phishing se destaca como una amenaza cibernética significativa. En el capítulo 1, página 7, se resalta la complejidad de los ataques, utilizando tácticas de ingeniería social para obtener información confidencial. Microsoft advierte sobre las consecuencias financieras y destaca la importancia de medidas tecnológicas de seguridad. La investigación, accesible en el portal web de Microsoft Security, enfatiza la relevancia de la concienciación del usuario para prevenir caer en trampas de phishing.
 
@@ -86,7 +87,7 @@ La investigación de Microsoft sobre el phishing proporciona una visión esclare
 
 
 
-
+Fecha en la cual se publicó: 2018
 
 Según Avast, el phishing se refiere al uso de trucos de ingeniería social por parte de un atacante para engañar a las víctimas y obtener información privada o hacer clic en enlaces maliciosos. Este tipo de ataque consta de tres componentes: la comunicación electrónica, como correos electrónicos o llamadas telefónicas; la suplantación de una persona u organización de confianza; y el objetivo de obtener información personal confidencial, como credenciales de inicio de sesión o números de tarjetas de crédito. El término "phishing" se deriva de la analogía de "pescar", donde los ciberdelincuentes utilizan un cebo atractivo en el vasto océano de usuarios de Internet. Las letras "ph" provienen del "phone phreaking", una práctica de experimentación con redes de telecomunicaciones en el siglo XX.
 
@@ -104,7 +105,7 @@ La definición de phishing proporcionada por Avast ofrece una visión concisa y 
 
 
 
-Fecha en la cual se publicó: 2022
+Fecha en la cual se publicó: 2018
 
 Según Panda Security, el phishing implica el envío de correos electrónicos que aparentan provenir de fuentes confiables, como bancos o compañías de energía, pero buscan engañar al receptor para obtener información confidencial. Este tipo de ataques generalmente comienza con la recepción de correos electrónicos que se hacen pasar por entidades legítimas, incluyendo enlaces a sitios web fraudulentos. Estos sitios imitan a empresas reales e instan a las víctimas a proporcionar datos personales. La vinculación entre el spam y el phishing se destaca, ya que los correos fraudulentos se envían masivamente para ampliar el alcance. Además del correo electrónico, el phishing puede utilizar otros medios como SMS (smishing), VoIP (vishing) o mensajes instantáneos en redes sociales. Los criminales aprovechan trucos de ingeniería social para generar alarma en los receptores, utilizando indicaciones de urgencia y llamadas a la acción, con el objetivo de que los usuarios actúen rápidamente sin considerar los riesgos. La recomendación clave es acceder a las páginas web escribiendo la dirección directamente en el navegador para prevenir caer en estos engaños.
 
@@ -122,7 +123,7 @@ La explicación proporcionada por Panda Security ofrece una comprensión detalla
 
 
 
-Fecha en la cual se publicó: 2022
+Fecha en la cual se publicó: 2018
 
 Según Malwarebytes, el phishing es el delito de engañar a las personas para que compartan información confidencial como contraseñas y números de tarjetas de crédito. La táctica más común de phishing involucra mensajes de correo electrónico o texto que imitan a personas u organizaciones de confianza, instando a la víctima a actuar de inmediato bajo amenazas ficticias. Al hacer clic en enlaces, los usuarios son redirigidos a sitios web fraudulentos que imitan legítimos y se les solicita que ingresen sus credenciales. Este método, considerado como la forma más sencilla y efectiva de ciberataque, explota la vulnerabilidad de la mente humana mediante la ingeniería social. A diferencia de otros ataques, el phishing no depende de vulnerabilidades técnicas, sino que se centra en la manipulación psicológica. Según Adam Kujawa, Director de Malwarebytes Labs, el phishing es la amenaza más peligrosa ya que apunta al eslabón más débil de la seguridad: la persona.
 
